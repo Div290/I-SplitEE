@@ -8,6 +8,6 @@ Part 2 (Unsupervised learning of Splitting layer based on distortion): Following
 
 ## Datasets
 
-Caltech256 dataset is available at: [Caltech256 Dataset][(https://gluebenchmark.com/tasks)](https://data.caltech.edu/records/nyy15-4j048)
+Caltech256 dataset is available at: [Caltech256 Dataset](https://data.caltech.edu/records/nyy15-4j048)
 
 Cifar10 dataset is available at: [Cifar10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
